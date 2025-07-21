@@ -1,4 +1,0 @@
-0to5Screen
-Search_Lineer_Sort_Selection
-NumberPrediciton_v2
-NumberPrediciton
